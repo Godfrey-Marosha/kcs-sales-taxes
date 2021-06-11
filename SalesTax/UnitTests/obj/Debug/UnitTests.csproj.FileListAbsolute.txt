@@ -1,0 +1,14 @@
+C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\UnitTests\bin\Debug\Domain.dll
+C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\UnitTests\bin\Debug\Infrastructure.dll
+C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\UnitTests\bin\Debug\Moq.dll
+C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\UnitTests\bin\Debug\Domain.pdb
+C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\UnitTests\bin\Debug\Infrastructure.pdb
+C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\UnitTests\bin\Debug\Moq.xml
+C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\UnitTests\obj\Debug\UnitTests.csproj.AssemblyReference.cache
+C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\UnitTests\obj\Debug\UnitTests.pdb
