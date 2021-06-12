@@ -9,7 +9,7 @@ namespace Domain
 
         public decimal GetPriceWithTaxIncluded(ShoppingCartItem product)
         {
-            return product;
+            return product.BasePrice + RoundUp(GetTaxAmount(product));
         }
 
         private decimal RoundUp(decimal amount)
