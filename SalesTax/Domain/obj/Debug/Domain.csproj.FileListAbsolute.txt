@@ -4,3 +4,7 @@ C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\Domain\obj\Debug\Domain.csp
 C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\Domain\obj\Debug\Domain.dll
 C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\Domain\obj\Debug\Domain.pdb
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\Domain\obj\Debug\Domain.dll
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\Domain\obj\Debug\Domain.pdb

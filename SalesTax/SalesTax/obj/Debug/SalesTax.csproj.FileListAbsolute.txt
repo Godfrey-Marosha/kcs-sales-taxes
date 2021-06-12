@@ -11,3 +11,16 @@ C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\SalesTax\obj\Debug\SalesTax
 C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\SalesTax\obj\Debug\SalesTax.csproj.CopyComplete
 C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\SalesTax\obj\Debug\SalesTax.exe
 C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\SalesTax\obj\Debug\SalesTax.pdb
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\SalesTax\bin\Debug\SalesTax.exe
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\SalesTax\bin\Debug\SalesTax.pdb
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\SalesTax\bin\Debug\Application.dll
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\SalesTax\bin\Debug\Domain.dll
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\SalesTax\bin\Debug\Infrastructure.dll
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\SalesTax\bin\Debug\Application.pdb
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\SalesTax\bin\Debug\Domain.pdb
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\SalesTax\bin\Debug\Infrastructure.pdb
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\SalesTax\obj\Debug\SalesTax.csproj.AssemblyReference.cache
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\SalesTax\obj\Debug\SalesTax.csproj.CoreCompileInputs.cache
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\SalesTax\obj\Debug\SalesTax.csproj.CopyComplete
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\SalesTax\obj\Debug\SalesTax.exe
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\SalesTax\obj\Debug\SalesTax.pdb
