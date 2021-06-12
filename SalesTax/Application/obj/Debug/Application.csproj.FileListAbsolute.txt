@@ -7,3 +7,12 @@ C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\Application\obj\Debug\Appli
 C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\Application\obj\Debug\Application.csproj.CopyComplete
 C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\Application\obj\Debug\Application.dll
 C:\Users\Frey Visual\Source\Repos\sales-tax\SalesTax\Application\obj\Debug\Application.pdb
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\Application\bin\Debug\Application.dll
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\Application\bin\Debug\Application.pdb
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\Application\bin\Debug\Domain.dll
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\Application\bin\Debug\Domain.pdb
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\Application\obj\Debug\Application.csproj.AssemblyReference.cache
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\Application\obj\Debug\Application.csproj.CopyComplete
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\Application\obj\Debug\Application.dll
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\Application\obj\Debug\Application.pdb

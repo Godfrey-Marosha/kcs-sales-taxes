@@ -2,12 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\SalesTax",
-    "\\SalesTax\\Application",
     "\\SalesTax\\Domain\\Entities",
     "\\SalesTax\\Domain\\Interfaces",
-    "\\SalesTax\\UnitTests",
+    "\\SalesTax\\SalesTax",
     "\\SalesTax\\UnitTests\\BasicSalesTaxCalculation"
   ],
-  "SelectedNode": "\\SalesTax\\Application\\ShoppingCart.cs",
+  "SelectedNode": "\\SalesTax\\SalesTax\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

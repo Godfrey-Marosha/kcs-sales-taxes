@@ -8,3 +8,5 @@ C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\Domain\obj\Debug\D
 C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\Domain\obj\Debug\Domain.dll
 C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\Domain\obj\Debug\Domain.pdb
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\Domain\bin\Debug\Domain.dll
+C:\Users\Frey Visual\Desktop\GitHub Uploads\SalesTax\SalesTax\Domain\bin\Debug\Domain.pdb
